@@ -20,7 +20,7 @@ public class DublicateWords {
         String output = "";
 
         for (String o : set) {
-            output += o + " ";
+            output +=  o + " ";
         }
         System.out.println(output);
     }
